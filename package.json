@@ -7,8 +7,7 @@
         "url":"https://github.com/j2123/calculator"
     },
     "keywords":[
-        "calc",
-        "calculator"
+        "calc","calculator"
     ],
     "dependencies":{},
     "engines":{
